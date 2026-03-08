@@ -1,1 +1,2 @@
-# Titanic-Tuyorial
+# Titanic-Tutorial
+
